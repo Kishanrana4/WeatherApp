@@ -1,0 +1,16 @@
+body{
+    background-color:blanchedalmond;
+    font-size: 0.8em;
+    letter-spacing: 0.15em;
+}
+.container{
+    max-width: 400px;
+}
+.WText{
+    display: block;
+}
+.icon{
+    border-radius: 50%;
+    margin:-50px;
+    margin-bottom: 0px;
+}
